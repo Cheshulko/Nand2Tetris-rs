@@ -21,7 +21,6 @@ Inspired by the **Nand2Tetris** / “From Nand to Tetris” course and the Cours
 - [Examples](#examples)  
 - [Testing](#testing)  
 - [License](#license)  
-- [Acknowledgments & References](#acknowledgments--references)  
 
 ---
 
@@ -238,10 +237,3 @@ Tests may include:
 ## License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments & References
-
-- [**Nand2Tetris Project**](https://www.nand2tetris.org/) — the original Hack platform specification  
-- [**Coursera: Build a Modern Computer from First Principles**](https://www.coursera.org/learn/build-a-computer/) — course this project is inspired by  
