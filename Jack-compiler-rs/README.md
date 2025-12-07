@@ -71,7 +71,7 @@ cargo run --features xml -- input/Test
 ### Build from source
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Cheshulko/Nand2Tetris-rs.git
 cd Jack-compiler-rs
 cargo build --release
 ```
